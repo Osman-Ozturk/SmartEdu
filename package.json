@@ -1,0 +1,24 @@
+{
+  "name": "smartedu",
+  "version": "1.0.0",
+  "description": "Education Portal",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "education",
+    "portal",
+    "nodejs"
+  ],
+  "author": "Osman Öztürk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
